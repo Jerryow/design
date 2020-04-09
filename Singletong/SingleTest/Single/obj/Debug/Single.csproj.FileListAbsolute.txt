@@ -1,0 +1,6 @@
+E:\github\design\Singletong\SingleTest\Single\bin\Debug\Single.exe.config
+E:\github\design\Singletong\SingleTest\Single\bin\Debug\Single.exe
+E:\github\design\Singletong\SingleTest\Single\bin\Debug\Single.pdb
+E:\github\design\Singletong\SingleTest\Single\obj\Debug\Single.csprojAssemblyReference.cache
+E:\github\design\Singletong\SingleTest\Single\obj\Debug\Single.exe
+E:\github\design\Singletong\SingleTest\Single\obj\Debug\Single.pdb

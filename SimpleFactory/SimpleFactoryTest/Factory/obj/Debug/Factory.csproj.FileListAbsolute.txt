@@ -1,0 +1,6 @@
+E:\github\design\SimpleFactory\SimpleFactoryTest\Factory\bin\Debug\Factory.exe.config
+E:\github\design\SimpleFactory\SimpleFactoryTest\Factory\bin\Debug\Factory.exe
+E:\github\design\SimpleFactory\SimpleFactoryTest\Factory\bin\Debug\Factory.pdb
+E:\github\design\SimpleFactory\SimpleFactoryTest\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+E:\github\design\SimpleFactory\SimpleFactoryTest\Factory\obj\Debug\Factory.exe
+E:\github\design\SimpleFactory\SimpleFactoryTest\Factory\obj\Debug\Factory.pdb

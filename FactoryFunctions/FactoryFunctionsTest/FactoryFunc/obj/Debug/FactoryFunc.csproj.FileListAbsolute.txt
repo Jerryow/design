@@ -1,0 +1,6 @@
+E:\github\design\FactoryFunctions\FactoryFunctionsTest\FactoryFunc\bin\Debug\FactoryFunc.exe.config
+E:\github\design\FactoryFunctions\FactoryFunctionsTest\FactoryFunc\bin\Debug\FactoryFunc.exe
+E:\github\design\FactoryFunctions\FactoryFunctionsTest\FactoryFunc\bin\Debug\FactoryFunc.pdb
+E:\github\design\FactoryFunctions\FactoryFunctionsTest\FactoryFunc\obj\Debug\FactoryFunc.csprojAssemblyReference.cache
+E:\github\design\FactoryFunctions\FactoryFunctionsTest\FactoryFunc\obj\Debug\FactoryFunc.exe
+E:\github\design\FactoryFunctions\FactoryFunctionsTest\FactoryFunc\obj\Debug\FactoryFunc.pdb
